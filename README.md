@@ -10,6 +10,10 @@ You don't need any specific actions to install the application. Just download .e
 
 ## Requirments
 
+## Issues
+
+<a href="https://github.com/sfptotal/SFPTotal-Wizard/issues">Issues</a> are used to track todos, bugs, feature requests, and more.
+
 ## What's next
 
 https://github.com/sfptotal/SFPTotal-Wizard/wiki
