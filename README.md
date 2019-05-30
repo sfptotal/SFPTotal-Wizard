@@ -1,3 +1,5 @@
+<p><img src="https://labs.sfptotal.com/images/sfptotal_logotype.png" align=center></p>
+
 # SFPTotal Wizard
 
 SFPTotal Wizard is official free software for SFPTotal coding boards.
