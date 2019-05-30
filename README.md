@@ -1,4 +1,5 @@
-<p><img src="https://labs.sfptotal.com/images/sfptotal_logotype.png" align=center width=120></p>
+<center><img src="https://labs.sfptotal.com/images/sfptotal_logotype.png" align=center width=150></center>
+<hr>
 
 # SFPTotal Wizard
 
