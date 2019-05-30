@@ -8,8 +8,6 @@ Thank you for choosing SFPTotal.
 
 You don't need any specific actions to install the application. Just download .exe file from official website and put to custom directory.
 
-## Requirments
-
 ## Issues
 
 Issues are used to track todos, bugs, feature requests, and more.
@@ -17,5 +15,7 @@ Issues are used to track todos, bugs, feature requests, and more.
 Please, <a href="https://github.com/sfptotal/SFPTotal-Wizard/issues">create an issue</a> when you have any problem or would like to inform SFPTotal Team about bugs or popose any feature.
 
 ## What's next
+
+Please visit the project wiki and get more about opportunities and main functions of the software and the coding boards.
 
 https://github.com/sfptotal/SFPTotal-Wizard/wiki
