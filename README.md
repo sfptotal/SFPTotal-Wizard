@@ -12,7 +12,7 @@ You don't need any specific actions to install the application. Just download .e
 
 ## Issues
 
-<a href="https://github.com/sfptotal/SFPTotal-Wizard/issues">Issues</a> are used to track todos, bugs, feature requests, and more.
+Issues are used to track todos, bugs, feature requests, and more.
 
 Please, <a href="https://github.com/sfptotal/SFPTotal-Wizard/issues">create an issue</a> when you have any problem or would like to inform SFPTotal Team about bugs or popose any feature.
 
