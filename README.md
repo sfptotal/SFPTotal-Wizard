@@ -6,6 +6,8 @@ Thank you for choosing SFPTotal.
 
 ## Installation
 
+You don't need any specific actions to install the application. Just download it from official website and put to directory.
+
 ## Requirments
 
 ## What's next
