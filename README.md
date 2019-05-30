@@ -6,6 +6,10 @@ The software is distributed free of charge with proprietary source code.
 
 Thank you for choosing SFPTotal.
 
-### User Guide
+# Installation
+
+# Requirments
+
+# What's next
 
 https://github.com/sfptotal/SFPTotal-Wizard/wiki
