@@ -1,6 +1,6 @@
 # SFPTotal Wizard
 
-SFPTotal Wizard is official software for SFPTotal coding boards. The software is distributed free of charge with proprietary source code.
+SFPTotal Wizard is official software for SFPTotal coding boards. The software is distributed free of charge and based on proprietary code.
 
 Thank you for choosing SFPTotal.
 
